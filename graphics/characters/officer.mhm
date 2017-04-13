@@ -1,0 +1,72 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags officer
+camera 13.0 348.5 0.063509628968 0.861511412451 0.139611803768 6.9125
+modifier eyes/r-eye-scale-decr|incr 0.564000
+modifier macrodetails-universal/Muscle 0.680000
+modifier mouth/mouth-scale-horiz-decr|incr 0.538000
+modifier macrodetails/African 0.286811
+modifier cheek/r-cheek-trans-down|up -0.524000
+modifier macrodetails-proportions/BodyProportions 0.714000
+modifier chin/chin-width-decr|incr 0.116000
+modifier ears/r-ear-flap-decr|incr 0.062000
+modifier neck/neck-scale-depth-decr|incr 0.198000
+modifier neck/neck-scale-horiz-decr|incr 0.062000
+modifier head/head-scale-depth-decr|incr 0.006000
+modifier mouth/mouth-lowerlip-ext-down|up -0.020000
+modifier macrodetails/Gender 0.667000
+modifier head/head-angle-in|out 0.006000
+modifier forehead/forehead-trans-backward|forward 0.538000
+modifier macrodetails-height/Height 0.327000
+modifier breast/BreastSize 0.500000
+modifier mouth/mouth-scale-vert-decr|incr -0.238000
+modifier head/head-invertedtriangular 0.680000
+modifier forehead/forehead-scale-vert-decr|incr 0.224000
+modifier mouth/mouth-trans-down|up -0.238000
+modifier macrodetails/Age 0.565000
+modifier breast/BreastFirmness 0.500000
+modifier neck/neck-back-scale-depth-decr|incr -0.524000
+modifier macrodetails/Asian 0.108189
+modifier chin/chin-height-decr|incr 0.020000
+modifier eyebrows/eyebrows-angle-down|up -0.184000
+modifier cheek/l-cheek-trans-down|up -0.374000
+modifier chin/chin-prominent-decr|incr 0.074000
+modifier nose/nose-scale-depth-decr|incr 0.578000
+modifier forehead/forehead-temple-decr|incr 0.048000
+modifier head/head-trans-backward|forward 0.320000
+modifier mouth/mouth-trans-in|out 0.074000
+modifier head/head-fat-decr|incr -0.456000
+modifier head/head-diamond 0.490000
+modifier head/head-age-decr|incr 0.620000
+modifier macrodetails/Caucasian 0.605000
+modifier chin/chin-jaw-drop-decr|incr -0.306000
+modifier head/head-scale-horiz-decr|incr 0.088000
+modifier ears/r-ear-trans-backward|forward 0.034000
+modifier eyes/l-eye-scale-decr|incr 0.428000
+modifier chin/chin-prognathism-decr|incr 0.592000
+modifier head/head-rectangular 0.367000
+modifier mouth/mouth-cupidsbow-decr|incr 0.374000
+modifier head/head-back-scale-depth-decr|incr 0.102000
+modifier eyebrows/eyebrows-trans-backward|forward 0.292000
+modifier eyebrows/eyebrows-trans-down|up -0.074000
+modifier nose/nose-point-down|up 0.102000
+modifier head/head-scale-vert-decr|incr 0.034000
+modifier forehead/forehead-nubian-decr|incr -0.006000
+modifier chin/chin-bones-decr|incr -0.782000
+modifier macrodetails-universal/Weight 0.429000
+modifier mouth/mouth-trans-backward|forward 0.074000
+modifier mouth/mouth-scale-depth-decr|incr 0.034000
+modifier mouth/mouth-lowerlip-height-decr|incr 0.034000
+modifier head/head-trans-down|up -0.102000
+modifier nose/nose-width3-decr|incr -0.470000
+modifier mouth/mouth-lowerlip-volume-decr|incr -0.102000
+hair short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8
+skeleton default_no_toes.mhskel
+eyebrows eyebrow012 1c16325c-7831-4166-831a-05c5b609c219
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+expression doubt01.mhpose
+skinMaterial skins/young_caucasian_male/young_caucasian_male_special_suit.mhmat
+material short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8 short04.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/bluegreen.mhmat
+subdivide True

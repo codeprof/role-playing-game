@@ -1,0 +1,57 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags android
+camera 3.0 328.5 0.117151183871 0.878258842377 -0.269247180197 4.4625
+modifier stomach/stomach-tone-decr|incr 1.000000
+modifier measure/measure-waist-circ-decr|incr -0.114000
+modifier macrodetails-universal/Muscle 1.000000
+modifier macrodetails/African 0.000000
+modifier hip/hip-scale-depth-decr|incr -0.086000
+modifier macrodetails-proportions/BodyProportions 0.537000
+modifier measure/measure-upperarm-circ-decr|incr 0.672000
+modifier head/head-scale-depth-decr|incr -0.660000
+modifier macrodetails/Gender 0.500000
+modifier pelvis/bulge-decr|incr -1.000000
+modifier macrodetails-height/Height 0.286000
+modifier breast/BreastSize 0.500000
+modifier head/head-invertedtriangular 0.469000
+modifier measure/measure-thigh-circ-decr|incr -0.634000
+modifier chin/chin-cleft-decr|incr -0.224000
+modifier measure/measure-ankle-circ-decr|incr 0.386000
+modifier macrodetails/Age 0.374000
+modifier breast/BreastFirmness 0.500000
+modifier stomach/stomach-navel-down|up 0.158000
+modifier macrodetails/Asian 0.000000
+modifier measure/measure-knee-circ-decr|incr -0.300000
+modifier measure/measure-wrist-circ-decr|incr 1.000000
+modifier head/head-fat-decr|incr -1.000000
+modifier head/head-age-decr|incr 1.000000
+modifier macrodetails/Caucasian 1.000000
+modifier chin/chin-jaw-drop-decr|incr 0.224000
+modifier hip/hip-scale-horiz-decr|incr -0.214000
+modifier head/head-square 0.354000
+modifier head/head-scale-horiz-decr|incr -0.620000
+modifier stomach/stomach-navel-in|out -0.014000
+modifier measure/measure-hips-circ-decr|incr 0.318000
+modifier measure/measure-calf-circ-decr|incr -0.272000
+modifier chin/chin-prognathism-decr|incr 0.210000
+modifier buttocks/buttocks-volume-decr|incr -1.000000
+modifier measure/measure-lowerleg-height-decr|incr 0.186000
+modifier head/head-scale-vert-decr|incr -0.632000
+modifier measure/measure-lowerarm-length-decr|incr 0.666000
+modifier chin/chin-bones-decr|incr -0.374000
+modifier macrodetails-universal/Weight 0.000000
+modifier hip/hip-trans-backward|forward -0.014000
+modifier measure/measure-upperleg-height-decr|incr -0.302000
+modifier pelvis/pelvis-tone-decr|incr 1.000000
+modifier head/head-trans-down|up -0.088000
+modifier stomach/stomach-pregnant-decr|incr -1.000000
+modifier hip/hip-waist-down|up -0.186000
+skeleton default.mhskel
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes male_casualsuit01 79ced554-1d8a-4c14-a6a8-e1de90b09c32
+clothes shoes01 6e0c552e-e207-44df-8f70-c9bfdeddd8c6
+clothesHideFaces False
+skinMaterial skins/middleage_asian_male/middleage_asian_male.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/blue.mhmat
+subdivide False
